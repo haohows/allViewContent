@@ -189,5 +189,22 @@ body {
     color: #000000;
 }
 
+.horizontal.hide {
+    display: none;
+}
+
+.upright {
+    background-image: url(./UprightReminder.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 250px;
+    height: 500px;
+}
+
+.upright.hide {
+    display: none;
+}
+
 
 /*# sourceMappingURL=all.css.map */
